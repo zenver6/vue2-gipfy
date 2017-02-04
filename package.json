@@ -2,7 +2,7 @@
   "name": "gipfy-vue",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "suto <suto@yamako.jp>",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
